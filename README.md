@@ -1,8 +1,16 @@
 ## The Real-Time Churn Prediction Pipeline for Bank Clients 
 
-My Graduation Project at the Information Technology Institute (ITI) Data Engineering Track
+My Graduation Project at the Information Technology Institute (ITI) Data Engineering Track. 
 The project is designed to process and analyze banking customer data to predict customer churn in real-time using a robust data streaming architecture. 
 The pipeline integrates various modern technologies to ingest, process, and visualize the data efficiently.
+
+### About Data source
+Churn refers to the phenomenon where customers stop using a company's services or products over a certain period. 
+In the context of business, particularly in sectors like banking, telecommunications and subscription services.
+
+Data set from Kaggle “Bank Customer Churn”
+Contains demographic , financial and customer information
+
 
 ### Pipeline Components:
 
